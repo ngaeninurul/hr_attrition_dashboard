@@ -113,8 +113,6 @@ Untuk melakukan prediksi attrition menggunakan model yang telah dibuat, ikuti la
    ```bash
    cd path/to/folder
 
-   
-
 3. Jalankan script prediksi:
    ```bash
    python prediction.py
