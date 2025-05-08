@@ -93,7 +93,7 @@ Berikut beberapa rekomendasi strategis berbasis data:
 
 - **Program Retensi Awal:** Fokus pada karyawan dengan masa kerja <2 tahun melalui onboarding yang efektif, mentorship, dan pelatihan kerja.
 - **Insentif Jangka Panjang:** Perluas pemberian stock option atau bonus loyalitas untuk meningkatkan retensi.
-- **Peningkatan Keterlibatan:** Jalankan program peningkatan job involvement seperti feedback 360Â°, rekognisi tim, dan pelibatan dalam pengambilan keputusan.
+- **Peningkatan Keterlibatan:** Jalankan program peningkatan job involvement seperti feedback 360°, rekognisi tim, dan pelibatan dalam pengambilan keputusan.
 - **Monitoring Proaktif:** Gunakan dashboard Metabase untuk memantau sinyal risiko attrition secara berkala.
 - **Keseimbangan Kerja:** Tinjau kembali kebijakan overtime dan dorong budaya work-life balance yang sehat.
 
@@ -112,6 +112,8 @@ Untuk melakukan prediksi attrition menggunakan model yang telah dibuat, ikuti la
 2. Buka terminal/CMD, lalu arahkan ke folder tempat file disimpan:
    ```bash
    cd path/to/folder
+
+   
 
 3. Jalankan script prediksi:
    ```bash
