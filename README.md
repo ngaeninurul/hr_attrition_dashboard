@@ -1,7 +1,6 @@
 
 # 🚪HR ATTRITION DASHBOARD📉
 
----
 
 ## 🏢 Business Understanding
 
@@ -29,9 +28,7 @@ Cakupan proyek ini meliputi:
 
 ### Persiapan
 
-**Sumber dataset:**
-
-ðŸ“‚ [Jaya Jaya Maju - Employee Dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
+**Sumber dataset:** [Jaya Jaya Maju - Employee Dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 **Setup Environment:**
 
@@ -62,7 +59,6 @@ Untuk melihat isi dashboard, gunakan aplikasi **Metabase** melalui Docker. Pasti
    docker cp metabase-hr:/metabase.db/metabase.db.mv.db ./
    ```
 
----
 
 ## 📊 Business Dashboard
 
@@ -89,7 +85,7 @@ Dashboard dibangun dengan menggunakan **Metabase** untuk membantu departemen HR:
    - **Masa kerja singkat (<3 tahun)**  
    Secara umum, mereka adalah karyawan yang belum menetap secara profesional maupun personal dan belum terikat secara emosional pada perusahaan.
 
----
+
 
 ## 🎯 Rekomendasi Actions
 
@@ -101,7 +97,7 @@ Berikut beberapa rekomendasi strategis berbasis data:
 - **Monitoring Proaktif:** Gunakan dashboard Metabase untuk memantau sinyal risiko attrition secara berkala.
 - **Keseimbangan Kerja:** Tinjau kembali kebijakan overtime dan dorong budaya work-life balance yang sehat.
 
----
+
 
 ## ▶️ Menjalankan File Prediksi 
 
@@ -111,7 +107,7 @@ Untuk melakukan prediksi attrition menggunakan model yang telah dibuat, ikuti la
    - `prediction.py`
    - `model_prediction.pkl`
    - `features_le.pkl`
-   - `input_prediction.csv` *(berisi data yang ingin diprediksi)*
+   - `input_prediction.csv` *(berisi data yang ingin diprediksi, dapat diubah)*
 
 2. Buka terminal/CMD, lalu arahkan ke folder tempat file disimpan:
    ```bash
