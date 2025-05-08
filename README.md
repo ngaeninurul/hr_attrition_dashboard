@@ -103,7 +103,7 @@ Berikut beberapa rekomendasi strategis berbasis data:
 
 Untuk melakukan prediksi attrition menggunakan model yang telah dibuat, ikuti langkah berikut:
 
-1. Siapkan folder project dan pastikan di dalamnya terdapat file berikut:
+1. Siapkan folder project (atau buka folder `model`) dan pastikan di dalamnya terdapat file berikut:
    - `prediction.py`
    - `model_prediction.pkl`
    - `features_le.pkl`
@@ -112,6 +112,14 @@ Untuk melakukan prediksi attrition menggunakan model yang telah dibuat, ikuti la
 2. Buka terminal/CMD, lalu arahkan ke folder tempat file disimpan:
    ```bash
    cd path/to/folder
+
+3. Buat environment baru:
+   ```bash
+   python -m venv venv
+   
+4. Aktifkan environment:
+   ```bash
+   venv\Scripts\activate
 
 3. Jalankan script prediksi:
    ```bash
