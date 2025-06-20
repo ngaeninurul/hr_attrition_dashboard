@@ -1,0 +1,11 @@
+Feature,Normalized Avg Importance
+JobInvolvement,0.7305135183132422
+StockOptionLevel,0.7158422197070928
+EnvironmentSatisfaction,0.569397439192653
+Age,0.5525799603477222
+JobSatisfaction,0.5275180798182607
+TotalWorkingYears,0.47088139228289916
+YearsSinceLastPromotion,0.4432818379378789
+JobLevel,0.43675565848474535
+DistanceFromHome,0.391493551839869
+WorkLifeBalance,0.3556643954805778
